@@ -144,7 +144,7 @@ CyberFlux is intended for educational purposes, network troubleshooting, and aut
 
 ## Author
 
-**Developer:** Your Name
+**Developer:** Pushkar Singh
 
 ## License
 
